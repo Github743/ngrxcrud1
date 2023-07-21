@@ -1,0 +1,22 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "author": "Author1",
+      "title": "Book1",
+      "cost": 10
+    },
+    {
+      "id": 2,
+      "author": "ed",
+      "title": "Book6",
+      "cost": 12
+    },
+    {
+      "id": 3,
+      "author": "dd",
+      "title": "Book5",
+      "cost": 2
+    }
+  ]
+}
